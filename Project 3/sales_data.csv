@@ -1,0 +1,11 @@
+Date,Region,Product,Quantity Sold,Price per Unit,Discount,Revenue
+2024-01-01,East,Product A,50,20,0.1,900.0
+2024-01-01,West,Product B,30,15,0.05,427.5
+2024-01-02,East,Product C,20,10,0.0,200.0
+2024-01-02,North,Product A,100,20,0.15,1700.0
+2024-01-03,South,Product B,60,15,0.1,810.0
+2024-01-03,East,Product D,10,25,0.05,237.5
+2024-01-04,West,Product A,80,20,0.1,1440.0
+2024-01-04,North,Product C,40,10,0.0,400.0
+2024-01-05,South,Product B,70,15,0.05,997.5
+2024-01-05,West,Product D,90,25,0.1,2025.0
